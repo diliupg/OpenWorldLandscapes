@@ -6,6 +6,11 @@
 # ===================================================
 # we do not need to version control the Starter Content
 Content/StarterContent/*
+Content/InfinityBladeGrassLands/*
+Content/KiteDemo/*
+Content/Landscapes/*
+Content/ParagonProps/*
+Content/SampleMap/*
 
 # Visual Studio 2015 user specific files
 .vs/
